@@ -1,3 +1,4 @@
 # git-excercise
 excercise for git merge, branch operations
-# 2nd-comit
+# 2nd-commit
+# 3rd-commit
